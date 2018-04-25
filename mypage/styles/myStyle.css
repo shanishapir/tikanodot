@@ -1,0 +1,698 @@
+body {
+    direction: rtl;
+    background: url('../background-black-blank-733857.jpg')no-repeat center top;
+    background-size: 150%;
+}
+div#container {
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-right: auto;
+}
+
+nav#home > ul {
+    list-style: none;
+    margin-top: 50px;
+    margin-right: 260px;
+}
+
+nav#home ul li {
+    display: inline-block;
+    float: right;
+    margin-top: -29px;
+}
+
+    nav#home ul li a {
+        display: inline-block;
+        border-radius: 4px;
+        background-color: #71852e;
+        border: none;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 18px;
+        padding: 20px;
+        width: 135px;
+        height: 25px;
+        transition: all 1.5s;
+        cursor: pointer;
+        margin: 5px;
+        margin-top: -68px;
+        margin-bottom: 60px;
+        text-decoration: none;
+        margin-right: 59px;
+    }
+
+nav#home {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+    background-color: #71852e;
+    width: 1263px;
+    height: 65px;
+    margin-right: -152px;
+    margin-top: 3px;
+    border-radius: 4px;
+}
+
+    nav#home:after {
+        content: '\00bb';
+        position: absolute;
+        opacity: 0;
+        top: 0;
+        right: -20px;
+        transition: 0.5s;
+    }
+
+    nav#home span {
+        padding-right: 25px;
+    }
+
+    nav#home:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+
+    nav#home ul li a:hover {
+        background-color: grey;
+        opacity: 0.7;
+    }
+
+    nav#home ul li ul {
+        display: none;
+        position: absolute;
+    }
+
+    nav#home li:hover > ul {
+        display: block;
+        position: absolute;
+        width: 50px;
+        height: 10px;
+    }
+
+
+h1 {
+    color: black;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: Heebo;
+    text-align: center;
+    margin: 24px;
+    width:600px;
+    margin-right: -5px;
+    margin-top: 0;
+}
+
+
+#backgroundhome {
+    background-color: rgba(250, 249, 246, 0.53);
+    width: 792px;
+    margin-right: 319px;
+    margin-top: 150px;
+    height: 85px;
+    border-radius: 4px;
+}
+
+div.gallery1 {
+    margin: 5px;
+    border: 5px solid #709ba1;
+    border-radius: 4px;
+    float: left;
+    width: 400px;
+    height: 300px;
+    color: #71852e;
+    font-weight: bold;
+    font-family: Calibri;
+    font-size: 28px;
+    margin-left: 288px;
+    margin-top: 75px;
+
+}
+
+    div.gallery1:hover {
+        border: 5px solid #71852e;
+        border-radius: 4px;
+        opacity: 0.8;
+    }
+
+    div.gallery1 img {
+        width: 100%;
+        height: auto;
+    }
+
+div.desc1 {
+    padding: 15px;
+    text-align: center;
+}
+
+div#container {
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-right: auto;
+}
+
+div#design {
+    margin-top: 5px;
+    margin-right: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+}
+
+
+
+
+
+nav#design1 > ul {
+    list-style: none;
+    margin-top: 50px;
+    margin-right: 138px;
+}
+
+nav#design1 ul li {
+    display: inline-block;
+    float: right;
+    margin-top: -29px;
+}
+
+nav#design1 ul li a {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #71852e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 18px;
+    padding: 20px;
+    width: 135px;
+    height: 25px;
+    transition: all 1.5s;
+    cursor: pointer;
+    margin: 5px;
+    margin-top: -68px;
+    margin-bottom: 60px;
+    text-decoration: none;
+    margin-right: 59px;
+}
+
+nav#design1 {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+    background-color: #71852e;
+    width: 1263px;
+    height: 65px;
+    margin-right: -152px;
+    margin-top: 2px;
+    border-radius: 4px;
+}
+
+    nav#design1:after {
+        content: '\00bb';
+        position: absolute;
+        opacity: 0;
+        top: 0;
+        right: -20px;
+        transition: 0.5s;
+    }
+
+    nav#design1 span {
+        padding-right: 25px;
+    }
+
+    nav#design1:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+
+    nav#design1 ul li a:hover {
+        background-color: grey;
+        opacity: 0.7;
+    }
+
+    nav#design1 ul li ul {
+        display: none;
+        position: absolute;
+    }
+
+    nav#design1 li:hover > ul {
+        display: block;
+        position: absolute;
+        width: 50px;
+        height: 10px;
+    }
+
+
+
+
+ p {
+    color: #050505;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Heebo;
+    text-align: right;
+    margin: 43px;
+    margin-right: 15px;
+    margin-top: 15px;
+    text-align: justify;
+}
+
+#background {
+    background-color: rgba(250, 249, 246, 0.53);
+    width: 782px;
+    margin-right: 319px;
+    margin-top: 150px;
+    height: 182px;
+    border-radius: 4px;
+}
+
+
+div.gallery {
+    margin: 5px;
+    border: 3px solid darkgrey;
+    float: left;
+    width: 400px;
+    height: 500px;
+    color: orangered;
+    font-weight: bold;
+    font-family: Calibri;
+    font-size: 28px;
+    margin-left: 284px;
+    margin-top: 77px;
+}
+
+    div.gallery:hover {
+        border: 3px solid darkslateblue;
+    }
+
+    div.gallery img {
+        width: 100%;
+        height: auto;
+    }
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+div#container {
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-right: auto;
+}
+
+div#comu {
+    margin-top: 5px;
+    margin-right: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+}
+
+
+nav#comu1 > ul {
+    list-style: none;
+    margin-top: 50px;
+    margin-right: 260px;
+}
+
+nav#comu1 ul li {
+    display: inline-block;
+    float: right;
+    margin-top: -29px;
+}
+
+nav#comu1 ul li a {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #71852e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 18px;
+    padding: 20px;
+    width: 135px;
+    height: 25px;
+    transition: all 1.5s;
+    cursor: pointer;
+    margin: 5px;
+    margin-top: -68px;
+    margin-bottom: 60px;
+    text-decoration: none;
+    margin-right: 59px;
+}
+
+nav#comu1 {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+    background-color: #71852e;
+    width: 1263px;
+    height: 65px;
+    margin-right: -152px;
+    margin-top: 2px;
+    border-radius: 4px;
+}
+
+    nav#comu1:after {
+        content: '\00bb';
+        position: absolute;
+        opacity: 0;
+        top: 0;
+        right: -20px;
+        transition: 0.5s;
+    }
+
+    nav#comu1 span {
+        padding-right: 25px;
+    }
+
+    nav#comu1:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+
+    nav#comu1 ul li a:hover {
+        background-color: grey;
+        opacity: 0.7;
+    }
+
+    nav#comu1 ul li ul {
+        display: none;
+        position: absolute;
+    }
+
+    nav#comu1 li:hover > ul {
+        display: block;
+        position: absolute;
+        width: 50px;
+        height: 10px;
+    }
+
+
+
+#friend {
+    margin-top: 40px;
+    margin-right: 188px;
+    padding-top: 5px;
+    padding-right: 5px;
+}
+
+
+div.galleryfriend {
+    margin: 5px;
+    border: 3px solid darkgrey;
+    float: left;
+    width: 600px;
+    height: 400px;
+    color: orangered;
+    font-weight: bold;
+    font-family: Calibri;
+    font-size: 28px;
+    margin-left: 171px;
+    margin-top: 43px;
+}
+
+    div.galleryfriend:hover {
+        border: 3px solid darkslateblue;
+    }
+
+    div.galleryfriend img {
+        width: 100%;
+        height: auto;
+    }
+
+#friendimg {
+    margin-top: 0px;
+    margin-right: 0px;
+
+}
+    div #container {
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-right: auto;
+}
+
+div#animate {
+    margin-top: 5px;
+    margin-right: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+}
+
+
+
+
+nav#animate1 > ul {
+    list-style: none;
+    margin-top: 50px;
+    margin-right: 260px;
+}
+
+nav#animate1 ul li {
+    display: inline-block;
+    float: right;
+    margin-top: -29px;
+}
+
+    nav#animate1 ul li a {
+        display: inline-block;
+        border-radius: 4px;
+        background-color: #71852e;
+        border: none;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 18px;
+        padding: 20px;
+        width: 135px;
+        height: 25px;
+        transition: all 1.5s;
+        cursor: pointer;
+        margin: 5px;
+        margin-top: -68px;
+        margin-bottom: 60px;
+        text-decoration: none;
+        margin-right: 59px;
+    }
+
+nav#animate1 {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+    background-color: #71852e;
+    width: 1263px;
+    height: 65px;
+    margin-right: -152px;
+    margin-top: 2px;
+    border-radius: 4px;
+}
+
+    nav#animate1:after {
+        content: '\00bb';
+        position: absolute;
+        opacity: 0;
+        top: 0;
+        right: -20px;
+        transition: 0.5s;
+    }
+
+    nav#animate1 span {
+        padding-right: 25px;
+    }
+
+    nav#animate1:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+
+    nav#animate1 ul li a:hover {
+        background-color: grey;
+        opacity: 0.7;
+    }
+
+    nav#animate1 ul li ul {
+        display: none;
+        position: absolute;
+    }
+
+    nav#animate1 li:hover > ul {
+        display: block;
+        position: absolute;
+        width: 50px;
+        height: 10px;
+    }
+#animateimg {
+    margin-top: 54px;
+    margin-right: 319px;
+}
+.animateh1 {
+    color: black;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: Heebo;
+    text-align: center;
+    margin: 24px;
+    width: 600px;
+    margin-right: -5px;
+    margin-top: 0;
+}
+
+div#container {
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-right: auto;
+}
+
+div#portret {
+    margin-top: 5px;
+    margin-right: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+}
+
+
+
+
+nav#portret1 > ul {
+    list-style: none;
+    margin-top: 50px;
+    margin-right: 138px;
+}
+
+nav#portret1 ul li {
+    display: inline-block;
+    float: right;
+    margin-top: -29px;
+}
+
+    nav#portret1 ul li a {
+       display:inline-block;
+        border-radius: 4px;
+        background-color: #71852e;
+        border: none;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 18px;
+        padding: 20px;
+        width: 135px;
+        height: 25px;
+        transition: all 1.5s;
+        cursor: pointer;
+        margin: 5px;
+        margin-top: -68px;
+        margin-bottom: 60px;
+        text-decoration: none;
+        margin-right: 59px;
+    }
+
+nav#portret1 {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+    background-color: #71852e;
+    width: 1263px;
+    height: 65px;
+    margin-right: -152px;
+    margin-top: 2px;
+    border-radius: 4px;
+}
+
+    nav#portret1:after {
+        content: '\00bb';
+        position: absolute;
+        opacity: 0;
+        top: 0;
+        right: -20px;
+        transition: 0.5s;
+    }
+
+    nav#portret1 span {
+        padding-right: 25px;
+    }
+
+    nav#portret1:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+
+    nav#portret1 ul li a:hover {
+        background-color: grey;
+        opacity: 0.7;
+    }
+
+    nav#portret1 ul li ul {
+        display: none;
+        position: absolute;
+    }
+
+    nav#portret1 li:hover > ul {
+        display: block;
+        position: absolute;
+        width: 50px;
+        height: 10px;
+    }
+
+#animateimg {
+    margin-top: 54px;
+    margin-right: 319px;
+}
+
+
+div.gallery {
+    margin: 5px;
+    border: 3px solid darkgrey;
+    float: left;
+    width: 400px;
+    height: 500px;
+    color: orangered;
+    font-weight: bold;
+    font-family: Calibri;
+    font-size: 28px;
+    margin-left: 284px;
+    margin-top: 77px;
+}
+
+    div.gallery:hover {
+        border: 3px solid darkslateblue;
+    }
+
+    div.gallery img {
+        width: 100%;
+        height: auto;
+    }
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+#explain {
+    width: 1077px;
+    height: 232px;
+    margin-top: -204px;
+    margin-right: 66px;
+}
+#bookmarker {
+    margin-top: -94px;
+    margin-right: 49px;
+}
+
+#backgroundfriend {
+    background-color: rgba(250, 249, 246, 0.53);
+    width: 782px;
+    margin-right: 319px;
+    margin-top: 150px;
+    height: 271px;
+    border-radius: 4px;
+}
